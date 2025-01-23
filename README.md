@@ -43,4 +43,4 @@
 
 | Clustering Technique      | Source Code                                   |
 |--------------------------|-----------------------------------------------|
-| K-Means                  | [Source Code](./codes/kmeans_clustering.ipynb) |
+| K-Means                  | [Description](./codes/Clustering/01.KMeans_iris.ipynb) , [DDA-Customer-segmentation](./quest/Cluerstering/customer-segmentation.md) , [Model-Customer-segmentation](./quest/Cluerstering/customer-segmentation.ipynb) , [PCA-Customer-segmentation](./quest/Cluerstering/pca-customer-segmentation.ipynb) |
